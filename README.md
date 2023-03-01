@@ -1,9 +1,9 @@
 
 # Nirav Goswami
-## Full Stack Software Engineer
-### 📧 Email: niravgoswami12@gmail.com
-### 🔗 LinkedIn: linkedin.com/in/niravgoswami\
-### 📍 Location: Scarborough, ON
+### Full Stack Software Engineer
+#### 📧 Email: niravgoswami12@gmail.com
+#### 🔗 LinkedIn: https://linkedin.com/in/niravgoswami
+#### 📍 Location: Toronto, ON
 
 <!--
 **niravgoswami12/niravgoswami12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
